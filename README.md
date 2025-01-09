@@ -1,4 +1,5 @@
 **MacOS Scientific Calculator using ReactJS**
+--------------------------------------------------------
 **Specifications**:
                 #Basic Arithmetic Operations like Addition,Substraction,Multiplication,Division,Percentage
                 #Algorithm OPerations like  x^2,sqrt,cubeth root,x^y etc..
