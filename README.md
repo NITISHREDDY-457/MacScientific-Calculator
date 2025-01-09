@@ -8,7 +8,7 @@
 * **History** option available to check the **calculations history** along with **DELETE** option to **clear history**.
 -------------------------------------------------------------------------
 **Commands**:
-To RUN THE Project-
+* To RUN THE Project-
         **npm start**
 
 
