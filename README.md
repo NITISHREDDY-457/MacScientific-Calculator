@@ -1,9 +1,9 @@
 **MacOS Scientific Calculator using ReactJS**
 --------------------------------------------------------
 **Specifications**:
-*Basic Arithmetic Operations like Addition,Substraction,Multiplication,Division,Percentage
-*Algorithm OPerations like  x^2,sqrt,cubeth root,x^y etc..
-*Trigonometric operations along with Hyperbolic functions like SIN,COS,TAN, sinh,cosh,Tanh etc..
+* Basic Arithmetic Operations like Addition,Substraction,Multiplication,Division,Percentage
+* Algorithm OPerations like  x^2,sqrt,cubeth root,x^y etc..
+* Trigonometric operations along with Hyperbolic functions like SIN,COS,TAN, sinh,cosh,Tanh etc..
 * **Theme Based Calculator** (Dark or Light)
 * **History** option available to check the **calculations history** along with **DELETE** option to **clear history**.
 -------------------------------------------------------------------------
